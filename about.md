@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+After almost a decade in education, I decided to pursue a diploma in data science to deepen my mathematical knowledge and gain new skills in programming.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am particularly interested in a blend of machine learning and education. My most recent project looks into predicting the dropout rates for my state of Kentucky and determining what conditions lead to higher percents. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ef.utley@gmail.com](mailto:ef.utley@gmail.com)
