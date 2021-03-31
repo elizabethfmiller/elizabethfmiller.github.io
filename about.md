@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-After almost a decade in education, I decided to pursue a diploma in data science to deepen my mathematical knowledge and gain new skills in programming.
+After almost a decade in education, I decided to pursue a diploma in data science to deepen my mathematical knowledge and gain new skills in programming. I have 2 previous masters degrees in math education and administration leadership. 
 
 ### More Information
 
